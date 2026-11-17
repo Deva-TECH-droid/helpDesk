@@ -438,9 +438,9 @@ Production credentials, connection strings, JWT secrets, and other sensitive con
 * Additional service management functionality
 
 ###  Author
-Celina Chetty
+Devansh Upadhyay
 GitHub:
-https://github.com/Celina7982
+https://github.com/Deva-TECH-droid
 Repository:
-https://github.com/Celina7982/IT-Helpdesk-System
+https://github.com/Deva-TECH-droid/helpDesk
 
